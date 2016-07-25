@@ -1,3 +1,4 @@
+![盒子模型](http://i.imgur.com/LytSDlE.jpg)
 # margin定义和用法
 **margin 简写属性在一个声明中设置所有外边距属性。该属性可以有 1 到 4 个值。**
 ## 说明
